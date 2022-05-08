@@ -1,12 +1,12 @@
 {
-  "name": "Telegram Torrent Leecher",
-  "description": "A Telegram Torrent (and youtube-dl) Leecher based on Pyrogram. Powered by @torrentleechgdrivesupport!",
+  "name": "garcia",
+  "description": "A Telegram",
   "keywords": [
     "telegram"
   ],
-  "repository": "https://github.com/reaitten/tgtlg",
-  "success_url": "https://t.me/orsixtyone",
-  "website": "https://github.com/reaitten/tgtlg",
+  "repository": "https://github.com/reaitten/garcia",
+  "success_url": "https://t.me/garcia",
+  "website": "https://github.com/reaitten/garcia",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
